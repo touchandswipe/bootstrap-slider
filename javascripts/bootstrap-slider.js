@@ -1,6 +1,5 @@
 /*! =========================================================
  * bootstrap-slider.js
- *
  * Maintainers: 
  *		Kyle Kemp 
  *			- Twitter: @seiyria
